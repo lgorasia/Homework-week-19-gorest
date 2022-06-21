@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Gorest CURD test with steps","This will create a new user","SUCCESS","2022-06-21T20:49:58.867+01:00[Europe/London]","0.0","1.02"
+"Gorest CURD test with steps","Verify if the user was added to the application","SUCCESS","2022-06-21T20:49:59.901+01:00[Europe/London]","0.0","1.01"
+"Gorest CURD test with steps","Update the user information and verify the updated information","SUCCESS","2022-06-21T20:50:00.912+01:00[Europe/London]","0.0","1.56"
+"Gorest CURD test with steps","Delete the user and verify if the user is deleted!","SUCCESS","2022-06-21T20:50:02.476+01:00[Europe/London]","0.0","1.54"
